@@ -1,6 +1,6 @@
 ## Hi there, I'm Kalicharan 👋
  ## About Me
- I am a Computer Science and Engineering student at the National Institute of Technology, Rourkela (NITR). Currently, I am pursuing my pre-final year.
+ I am a Computer Science and Engineering student at the National Institute of Technology, Rourkela (NITR). Currently, I am pursuing my final year.
 - 🔭 I’m currently working on developing advanced machine learning models and AI applications, with a focus on natural language processing and computer vision projects.
  - 🌱 I’m currently learning about deep learning framework like TensorFlow.
  - 👯 I’m looking to collaborate on innovative AI/ML projects, especially those that have real-world applications.
