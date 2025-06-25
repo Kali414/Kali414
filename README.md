@@ -8,7 +8,7 @@
  - 💬 Ask me about AI/ML, data science, and any tech-related topics!
  - 📫 How to reach me: [
  kalicharansahoo91@gmail.com](mailto:kalicharansahoo91@gmail.com)
- - 😄 Pronouns: He/Him
+ - 😄 Pronouns: He/Him.
  -⚡ Fun fact: I love playing sports like cricket and watching good anime in my free time!
 
 <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=Kali414&show_icons=true&theme=cobalt"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kali414&layout=donut&theme=cobalt)](https://github.com/Kali414/github-readme-stats)
